@@ -1,4 +1,4 @@
-### Carlo Greß
+### Welcome!
 
 🔭 I’m currently am a Data Science for Public Policy Student @ Hertie School <br>
 🤓 ... also working as a Project Managar at Bertelsmann Stitung (Project: New Democracy) <br>
