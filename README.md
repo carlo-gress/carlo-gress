@@ -1,8 +1,11 @@
 ### Welcome!
 
 🔭 I’m currently am a Data Science for Public Policy Student @ Hertie School <br>
+
 🤓 ... also working as a Project Managar at Bertelsmann Stitung (Project: New Democracy) <br>
+
 💬 My background is in political science and I am an alumnus from Uni Mannheim and Goethe-Universtität Frankfurt <br>
+
 📫 How to reach me: https://www.linkedin.com/in/carlo-gre%C3%9F-bba890143/ <br>
 
 <!--
